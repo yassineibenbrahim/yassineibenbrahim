@@ -1,32 +1,36 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:38BDF8&height=220&section=header&text=Yassine%20Iben-Brahim&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=5th year Engineering%20Student%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Data%20and%20AI&descAlignY=58&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:38BDF8&height=220&section=header&text=Yassine%20Iben-Brahim&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=5th-Year%20Engineering%20Student%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Data%20and%20AI&descAlignY=58&descSize=17" width="100%"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&size=21&duration=2800&pause=900&color=0A66C2&center=true&vCenter=true&width=620&lines=Engineering+Student+%40+INSA+Toulouse;Full-Stack+Developer+%40+Sopra+Steria;Data+%26+Applied+AI" alt="typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&size=21&duration=2800&pause=900&color=0A66C2&center=true&vCenter=true&width=660&lines=5th-Year+Engineering+Student+%40+INSA+Toulouse;Full-Stack+Developer+%40+Sopra+Steria;Data+%26+Applied+AI" alt="typing animation" />
 </div>
 
 ### 💼 What I do
 
-- 🏢 **Sopra Steria** (2025 → now) — Full-stack dev on **SAMARAI** for Orange: evolving a 500k-line Java/Angular codebase, architecture, tests, CI/CD
-- 🧠 **Outlier** (2023 → 2024) — **RLHF evaluator & LLM trainer**: sharpening model reasoning on code and math
-- 💻 **Freelance** (2023 → 2024) — full-stack web apps built end-to-end: React, TypeScript, Tailwind, Supabase
-- 🏆 **Pépite** student-entrepreneur — 3rd prize, INSA entrepreneurship program (HomeView)
+> 🏢 **Sopra Steria** (2025 → now) : Full-stack dev on **SAMARAI** for Orange: evolving a 500k-line Java/Angular codebase, architecture, tests, CI/CD
+
+> 🧠 **Outlier** (2023 → 2024) : **RLHF evaluator & LLM trainer**: sharpening model reasoning on code and math
+
+> 💻 **Freelance** (2023 → 2024) : full-stack web apps built end-to-end: React, TypeScript, Tailwind, Supabase
+
+> 🏆 **Pépite** student-entrepreneur : 3rd prize, INSA entrepreneurship program (Mobile application : HomeView)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:38BDF8&height=4" width="100%"/>
 
 ### 🛠️ Tech stack
 
-**Languages** : Java · Python · TypeScript · JavaScript · Rust · C
-
+**Languages** : Java · Python · TypeScript · JavaScript · C
 <div><img src="https://skillicons.dev/icons?i=java,py,ts,js,c&theme=dark&perline=6" alt="languages" /></div>
 
 **Web Development** : Angular · React · Node.js · Tailwind CSS · Flask · Django
-
 <div><img src="https://skillicons.dev/icons?i=angular,react,nodejs,tailwind,flask,django&theme=dark&perline=6" alt="web" /></div>
 
 **Data & AI** : TensorFlow · scikit-learn · PostgreSQL · MySQL · MongoDB · Pandas · NumPy · Keras · Matplotlib · Supabase
-
 <div><img src="https://skillicons.dev/icons?i=tensorflow,sklearn,postgres,mysql,mongodb&theme=dark&perline=6" alt="data and ai" /></div>
 
 **DevOps & Cloud** : Docker · Git · GitLab · AWS · Azure
 <div><img src="https://skillicons.dev/icons?i=docker,git,gitlab,aws,azure&theme=dark&perline=6" alt="devops and cloud" /></div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:38BDF8&height=4" width="100%"/>
 
 ### 📫 Let's connect
 
