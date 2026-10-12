@@ -8,35 +8,31 @@
 
 ### 💼 What I do
 
-> <img src="logo-insa.png" height="16" alt="INSA Toulouse"/> **INSA Toulouse** (2023 → 2027) — 5th-year engineering student, Computer Science & Networks
+> <img src="logo-insa.png" height="16" alt="INSA Toulouse"/> **INSA Toulouse** (2023 → 2027) - 5th-year engineering student, Computer Science & Networks
 
-> <img src="https://www.google.com/s2/favicons?domain=soprasteria.com&sz=128" height="20" alt="Sopra Steria"/> **Sopra Steria** (2025 → now) — Full-stack dev on **SAMARAI** for Orange: evolving a 500k-line Java/Angular codebase, architecture, tests, CI/CD
+> <img src="https://www.google.com/s2/favicons?domain=soprasteria.com&sz=128" height="20" alt="Sopra Steria"/> **Sopra Steria** (2025 → now) - Full-stack dev on **SAMARAI** for Orange: evolving a 500k-line Java/Angular codebase, architecture, tests, CI/CD
 
-> <img src="logo-outlier-dark.svg#gh-dark-mode-only" height="18" alt="Outlier"/><img src="logo-outlier-light.svg#gh-light-mode-only" height="18" alt="Outlier"/> **Outlier** (2023 → 2024) — **RLHF evaluator & LLM trainer**: sharpening model reasoning on code and math
+> <img src="logo-outlier-dark.svg#gh-dark-mode-only" height="18" alt="Outlier"/><img src="logo-outlier-light.svg#gh-light-mode-only" height="18" alt="Outlier"/> **Outlier** (2023 → 2024) - **RLHF evaluator & LLM trainer**: sharpening model reasoning on code and math
 
-> 💻 **Freelance** (2023 → 2024) — full-stack web apps built end-to-end: React, TypeScript, Tailwind, Supabase
+> 💻 **Freelance** (2023 → 2024) - full-stack web apps built end-to-end: React, TypeScript, Tailwind, Supabase
 
-> 🏆 **Pépite** student-entrepreneur — 3rd prize, INSA entrepreneurship program (HomeView)
+> 🏆 **Pépite** student-entrepreneur - 3rd prize, INSA entrepreneurship program (HomeView)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:38BDF8&height=4" width="100%"/>
 
 ### 🛠️ Tech stack
 
-**Languages**
+**Languages:** Java, Python, TypeScript, JavaScript, C
 <div><img src="https://skillicons.dev/icons?i=java,py,ts,js,c&theme=dark&perline=6" alt="languages" /></div>
-<sub>Java · Python · TypeScript · JavaScript · C</sub>
 
-**Web Development**
+**Web Development:** Angular, React, Node.js, Tailwind CSS, Flask, Django
 <div><img src="https://skillicons.dev/icons?i=angular,react,nodejs,tailwind,flask,django&theme=dark&perline=6" alt="web" /></div>
-<sub>Angular · React · Node.js · Tailwind CSS · Flask · Django</sub>
 
-**Data & AI**
+**Data & AI:** TensorFlow, scikit-learn, PostgreSQL, MySQL, MongoDB, Pandas, NumPy, Keras, Matplotlib, Supabase
 <div><img src="https://skillicons.dev/icons?i=tensorflow,sklearn,postgres,mysql,mongodb&theme=dark&perline=6" alt="data and ai" /></div>
-<sub>TensorFlow · scikit-learn · PostgreSQL · MySQL · MongoDB · Pandas · NumPy · Keras · Matplotlib · Supabase</sub>
 
-**DevOps & Cloud**
+**DevOps & Cloud:** Docker, Git, GitLab, AWS, Azure
 <div><img src="https://skillicons.dev/icons?i=docker,git,gitlab,aws,azure&theme=dark&perline=6" alt="devops and cloud" /></div>
-<sub>Docker · Git · GitLab · AWS · Azure</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:38BDF8&height=4" width="100%"/>
 
