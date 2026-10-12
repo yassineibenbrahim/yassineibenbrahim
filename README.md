@@ -1,6 +1,8 @@
-<div align="right"><a href="README.fr.md">🇫🇷 Français</a></div>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:38BDF8&height=220&section=header&text=Yassine%20Iben-Brahim&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=5th-Year%20Engineering%20Student%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Data%20and%20AI&descAlignY=58&descSize=17" width="100%"/>
+
+<div align="center">
+  <a href="README.fr.md"><img src="https://img.shields.io/badge/%F0%9F%87%AB%F0%9F%87%B7_Fran%C3%A7ais-0A66C2?style=for-the-badge" alt="Lire en français"/></a>
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&size=21&duration=2800&pause=900&color=0A66C2&center=true&vCenter=true&width=660&lines=5th-Year+Engineering+Student+%40+INSA+Toulouse;Full-Stack+Developer+%40+Sopra+Steria;Data+%26+Applied+AI" alt="typing animation" />

@@ -1,6 +1,8 @@
-<div align="right"><a href="README.md">🇬🇧 English</a></div>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:38BDF8&height=220&section=header&text=Yassine%20Iben-Brahim&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%C3%89l%C3%A8ve-ing%C3%A9nieur+5e+ann%C3%A9e+%C2%B7+D%C3%A9veloppeur+Full-Stack+%C2%B7+Data+et+IA&descAlignY=58&descSize=17" width="100%"/>
+
+<div align="center">
+  <a href="README.md"><img src="https://img.shields.io/badge/%F0%9F%87%AC%F0%9F%87%A7_English-0A66C2?style=for-the-badge" alt="Read in English"/></a>
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&size=21&duration=2800&pause=900&color=0A66C2&center=true&vCenter=true&width=660&lines=%C3%89l%C3%A8ve-ing%C3%A9nieur+5e+ann%C3%A9e+%40+INSA+Toulouse;D%C3%A9veloppeur+Full-Stack+%40+Sopra+Steria;Data+%26+IA+appliqu%C3%A9e" alt="typing animation" />
