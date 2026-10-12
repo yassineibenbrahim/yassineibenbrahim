@@ -1,3 +1,5 @@
+<div align="right"><a href="README.fr.md">🇫🇷 Français</a></div>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:38BDF8&height=220&section=header&text=Yassine%20Iben-Brahim&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=5th-Year%20Engineering%20Student%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Data%20and%20AI&descAlignY=58&descSize=17" width="100%"/>
 
 <div align="center">
@@ -6,11 +8,11 @@
 
 ### 💼 What I do
 
-> <img src="https://www.insa-toulouse.fr/wp-content/uploads/2022/12/LOGO-INSA-2.webp" height="16" alt="INSA Toulouse"/> **INSA Toulouse** (2023 → 2027) — 5th-year engineering student, Computer Science & Networks
+> <img src="logo-insa.png" height="16" alt="INSA Toulouse"/> **INSA Toulouse** (2023 → 2027) — 5th-year engineering student, Computer Science & Networks
 
 > <img src="https://www.google.com/s2/favicons?domain=soprasteria.com&sz=128" height="20" alt="Sopra Steria"/> **Sopra Steria** (2025 → now) — Full-stack dev on **SAMARAI** for Orange: evolving a 500k-line Java/Angular codebase, architecture, tests, CI/CD
 
-> <img src="https://raw.githubusercontent.com/yassineibenbrahim/yassineibenbrahim/main/logo-outlier-dark.svg#gh-dark-mode-only" height="18" alt="Outlier"/><img src="https://raw.githubusercontent.com/yassineibenbrahim/yassineibenbrahim/main/logo-outlier-light.svg#gh-light-mode-only" height="18" alt="Outlier"/> **Outlier** (2023 → 2024) — **RLHF evaluator & LLM trainer**: sharpening model reasoning on code and math
+> <img src="logo-outlier-dark.svg#gh-dark-mode-only" height="18" alt="Outlier"/><img src="logo-outlier-light.svg#gh-light-mode-only" height="18" alt="Outlier"/> **Outlier** (2023 → 2024) — **RLHF evaluator & LLM trainer**: sharpening model reasoning on code and math
 
 > 💻 **Freelance** (2023 → 2024) — full-stack web apps built end-to-end: React, TypeScript, Tailwind, Supabase
 
