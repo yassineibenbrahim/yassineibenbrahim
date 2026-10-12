@@ -10,7 +10,7 @@
 
 ### 💼 What I do
 
-> <img src="logo-insa.png" height="16" alt="INSA Toulouse"/> **INSA Toulouse** (2023 → 2027) - 5th-year engineering student, Computer Science & Networks
+> <img src="logo-insa.png" height="16" alt="INSA Toulouse"/> **INSA Toulouse** (Graduation 2027) - 5th-year engineering student, Computer Science & Networks
 
 > <img src="https://www.google.com/s2/favicons?domain=soprasteria.com&sz=128" height="20" alt="Sopra Steria"/> **Sopra Steria** (2025 → now) - Full-stack dev on **SAMARAI** for Orange: evolving a 500k-line Java/Angular codebase, architecture, tests, CI/CD
 
