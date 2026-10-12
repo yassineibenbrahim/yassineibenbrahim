@@ -8,35 +8,31 @@
 
 ### 💼 Ce que je fais
 
-> <img src="logo-insa.png" height="16" alt="INSA Toulouse"/> **INSA Toulouse** (2023 → 2027) — élève-ingénieur en 5e année, Informatique & Réseaux
+> <img src="logo-insa.png" height="16" alt="INSA Toulouse"/> **INSA Toulouse** (2023 → 2027) - élève-ingénieur en 5e année, Informatique & Réseaux
 
-> <img src="https://www.google.com/s2/favicons?domain=soprasteria.com&sz=128" height="20" alt="Sopra Steria"/> **Sopra Steria** (2025 → aujourd'hui) — dev full-stack sur **SAMARAI** pour Orange : évolution d'une codebase Java/Angular de 500k lignes, architecture, tests, CI/CD
+> <img src="https://www.google.com/s2/favicons?domain=soprasteria.com&sz=128" height="20" alt="Sopra Steria"/> **Sopra Steria** (2025 → aujourd'hui) - dev full-stack sur **SAMARAI** pour Orange : évolution d'une codebase Java/Angular de 500k lignes, architecture, tests, CI/CD
 
-> <img src="logo-outlier-dark.svg#gh-dark-mode-only" height="18" alt="Outlier"/><img src="logo-outlier-light.svg#gh-light-mode-only" height="18" alt="Outlier"/> **Outlier** (2023 → 2024) — **évaluateur RLHF & entraîneur de LLM** : affûtage du raisonnement des modèles sur le code et les maths
+> <img src="logo-outlier-dark.svg#gh-dark-mode-only" height="18" alt="Outlier"/><img src="logo-outlier-light.svg#gh-light-mode-only" height="18" alt="Outlier"/> **Outlier** (2023 → 2024) - **évaluateur RLHF & entraîneur de LLM** : affûtage du raisonnement des modèles sur le code et les maths
 
-> **Freelance** (2023 → 2024) — applications web full-stack de bout en bout : React, TypeScript, Tailwind, Supabase
+> **Freelance** (2023 → 2024) - applications web full-stack de bout en bout : React, TypeScript, Tailwind, Supabase
 
-> **Pépite** — statut étudiant-entrepreneur, 3e prix du programme entrepreneuriat INSA (HomeView)
+> **Pépite** - statut étudiant-entrepreneur, 3e prix du programme entrepreneuriat INSA (HomeView)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:38BDF8&height=4" width="100%"/>
 
 ### 🛠️ Stack technique
 
-**Langages**
+**Langages:** Java, Python, TypeScript, JavaScript, C
 <div><img src="https://skillicons.dev/icons?i=java,py,ts,js,c&theme=dark&perline=6" alt="langages" /></div>
-<sub>Java · Python · TypeScript · JavaScript · C</sub>
 
-**Développement Web**
+**Développement Web:** Angular, React, Node.js, Tailwind CSS, Flask, Django
 <div><img src="https://skillicons.dev/icons?i=angular,react,nodejs,tailwind,flask,django&theme=dark&perline=6" alt="web" /></div>
-<sub>Angular · React · Node.js · Tailwind CSS · Flask · Django</sub>
 
-**Data & IA**
+**Data & IA:** TensorFlow, scikit-learn, PostgreSQL, MySQL, MongoDB, Pandas, NumPy, Keras, Matplotlib, Supabase
 <div><img src="https://skillicons.dev/icons?i=tensorflow,sklearn,postgres,mysql,mongodb&theme=dark&perline=6" alt="data et ia" /></div>
-<sub>TensorFlow · scikit-learn · PostgreSQL · MySQL · MongoDB · Pandas · NumPy · Keras · Matplotlib · Supabase</sub>
 
-**DevOps & Cloud**
+**DevOps & Cloud:** Docker, Git, GitLab, AWS, Azure
 <div><img src="https://skillicons.dev/icons?i=docker,git,gitlab,aws,azure&theme=dark&perline=6" alt="devops et cloud" /></div>
-<sub>Docker · Git · GitLab · AWS · Azure</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:38BDF8&height=4" width="100%"/>
 
