@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:38BDF8&height=220&section=header&text=Yassine%20Iben-Brahim&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Engineering%20Student%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Data%20and%20AI&descAlignY=58&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:38BDF8&height=220&section=header&text=Yassine%20Iben-Brahim&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=5th year Engineering%20Student%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Data%20and%20AI&descAlignY=58&descSize=17" width="100%"/>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&size=21&duration=2800&pause=900&color=0A66C2&center=true&vCenter=true&width=620&lines=Engineering+Student+%40+INSA+Toulouse;Full-Stack+Developer+%40+Sopra+Steria;Data+%26+Applied+AI" alt="typing animation" />
