@@ -47,8 +47,4 @@
   <a href="mailto:iben-brahim@insa-toulouse.fr"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yassineibenbrahim&color=0A66C2&style=flat-square" alt="profile views"/>
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:38BDF8&height=120&section=footer" width="100%"/>
